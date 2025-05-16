@@ -4,11 +4,20 @@
 # Eclipse files
 .project
 .settings/
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
 
 # IntelliJ files
 *.iml
 .idea/
+*.log
+build
+tests_build
+coverage
 
 # VS
 .vs/
 .vscode/
+.DS_Store
