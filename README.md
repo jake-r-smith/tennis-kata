@@ -4,8 +4,8 @@ _Support this and all my katas via [Patreon](https://www.patreon.com/EmilyBache)
 
 You can find out more about this exercise and where it comes from in [this YouTube video](https://youtu.be/XifUs1FhWRc). There are also some Guided Learning Hour videos that include demos of me solving parts of it.
 
-* [Refactoring: What you need to know](https://youtu.be/K7xSsNpeM8I) - includes demo of TennisGame3 in C#
-* [Refactoring Skills: Extract Function](https://youtu.be/lOAktlPd8uk) - includes demo of TennisGame6 in C#
+- [Refactoring: What you need to know](https://youtu.be/K7xSsNpeM8I) - includes demo of TennisGame3 in C#
+- [Refactoring Skills: Extract Function](https://youtu.be/lOAktlPd8uk) - includes demo of TennisGame6 in C#
 
 # The Scenario
 
@@ -23,12 +23,13 @@ Here is a description of the problem this code is designed to solve: [Tennis Kat
 
 ## Questions to discuss afterwards
 
-* How did it feel to work with such fast, comprehensive tests?
-* Did you make mistakes while refactoring that were caught by the tests?
-* If you used a tool to record your test runs, review it. Could you have taken smaller steps? Made fewer refactoring mistakes?
-* Did you ever make any refactoring mistakes and then back out your changes? How did it feel to throw away code?
-* What would you say to your colleague if they had written this code?
-* What would you say to your boss about the value of this refactoring work? Was there more reason to do it over and above the extra billable hour or so?
+- How did it feel to work with such fast, comprehensive tests?
+- Did you make mistakes while refactoring that were caught by the tests?
+- If you used a tool to record your test runs, review it. Could you have taken smaller steps? Made fewer refactoring mistakes?
+- Did you ever make any refactoring mistakes and then back out your changes? How did it feel to throw away code?
+- What would you say to your colleague if they had written this code?
+- What would you say to your boss about the value of this refactoring work? Was there more reason to do it over and above the extra billable hour or so?
 
 ## Code Reading Practice
+
 Test your code reading skills. Here is a description of what to do: [Scanning for Code Smells](https://sammancoaching.org/exercises/code_reading.html). There are suitable lists of urls to open in some of the language subdirectories.
